@@ -1,0 +1,15 @@
+git branch: indica la rama en la que estas
+
+git branch nombre: crea una rama con el nombre escrito 
+
+git branch -m nombre otro_nombre
+
+git checkout nombre: cambias a la rama indicada
+
+git breanch -d nombre: elimina la rama nombrada (solo si estas fuera de ella)
+
+touch "name.txt": con se agregan archivos
+
+git add. : para agrgar los archivos hechos es esa rama, luego se hace un git commit para indica que son exclusivos de la rama
+
+git diff Rama#1 Rama#2: hace una comparacion entre ramas (pero depende del orden, en comparacion con la primera rama mencionada esas son las diferecias)
